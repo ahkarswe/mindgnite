@@ -1,0 +1,54 @@
+::-webkit-scrollbar {
+    width: 0px;
+  }
+  
+/* body{
+    margin: top 65px;
+}  */
+.background{
+    background-image: url('http://localhost:8080/mindgnite/img/crop.jpg');
+        background-size: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+}
+nav-main{
+ width: auto;
+ height: 65px; 
+     
+}
+.logo{
+    width: 30px;
+     height: 30px;
+     
+   margin-top: 0%;
+   
+   padding: 2px;
+   margin-left: 2px;
+       
+}
+
+header a:hover{
+    opacity: 80%;
+    zoom: 110%;
+}
+/*.cust-container-1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+}*/
+.main-image img{
+    width: 300px;
+    height: 200px;
+    border: 2px solid whitesmoke;
+}
+/* .img-container{
+    width: 100%;
+    height: 430px;
+    
+   
+    
+    
+} */
